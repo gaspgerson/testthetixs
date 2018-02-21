@@ -1,0 +1,86 @@
+.landing .banner-area {
+    padding: 0;
+    background-image: url(../images/banner/1.jpg);
+    background-position: center center;
+    -webkit-background-size: cover;
+    background-size: cover;
+}
+
+.landing .banner-area .vertical-center {
+    margin-top: 0;
+}
+
+.land-logo {
+    margin-bottom: 40px;
+}
+
+.text-white .btn-border {
+    color: #ffffff;
+}
+
+.landing .banner-area .vertical-center h1 {
+    margin-bottom: 60px;
+}
+
+.landing .banner-area .vertical-center h1 span {
+    display: block;
+}
+
+.landing.blue.particle .particle-bg {
+    background-position: center top;
+    background-repeat: repeat-y;
+}
+
+.demo-group {
+    padding-bottom: 60px;
+}
+
+.demo-heading {
+    background-color: #f7f7f7;
+    padding: 40px 0;
+    text-transform: uppercase;
+}
+
+.demo-wrap {
+    padding: 60px 0;
+}
+
+.demos {
+    float: left;
+    width: 100%;
+    margin-bottom: -30px;
+}
+
+.demo {
+    background-color: #333;
+    display: block;
+    border-radius: 10px;
+    overflow: hidden;
+    margin-bottom: 30px;
+}
+
+.demo-name {
+    text-align: center;
+    display: block;
+    font-size: 2rem;
+    text-transform: uppercase;
+    line-height: 2;
+    font-weight: 700;
+}
+
+.widget-area {
+    padding-top: 0;
+}
+
+.widget-area .container {
+    padding: 120px;
+    border-top: 1px solid #dddddd;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.feature-about-widget .logo-footer+p {
+    margin-top: 30px;
+}
